@@ -1,18 +1,14 @@
 export default function Home() {
   return (
     <div>
-      <h1>Home Page</h1>
-      <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque
-        velit, lobortis ut magna varius, blandit rhoncus sem. Morbi lacinia nisi
-        ac dui fermentum, sed luctus urna tincidunt. Etiam ut feugiat ex. Cras
-        non risus mi. Curabitur mattis rutrum ipsum, ut aliquet urna imperdiet
-        ac. Sed nec nulla aliquam, bibendum odio eget, vestibulum tortor. Cras
-        rutrum ligula in tincidunt commodo. Morbi sit amet mollis orci, in
-        tristique ex. Donec nec ornare elit. Donec blandit est sed risus feugiat
-        porttitor. Vestibulum molestie hendrerit massa non consequat. Vestibulum
-        vitae lorem tortor. In elementum ultricies tempus. Interdum et malesuada
-        fames ac ante ipsum primis in faucibus.
+      <h1>Isabella Vega</h1>
+        <img class="img-fluid rounded" src="assets/images/headshotnew.jpg" alt="" />
+        <p>
+        I’m a Data Governance Specialist/Technical Writer at BHG Financial. With a passion for transforming ideas into visually captivating experiences, I am part of a team dedicated to merging the fields of design and technology.
+        </p>
+        <p>
+      “Believe you can, and you're halfway there.”
+      ~Theodore Roosevelt
       </p>
     </div>
   );
